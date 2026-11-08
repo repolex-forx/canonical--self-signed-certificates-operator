@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/self-signed-certificates-operator/commit/782770e0a71c2bf7648d5280a0d08f6d43fa64bf",
       "git:hexsha": "782770e0a71c2bf7648d5280a0d08f6d43fa64bf",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "rev714"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "rev714",
+      "repolex:parsedAt": "2026-11-08T14:48:28.223196+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/self-signed-certificates-operator/commit/58e8260fe17109d0ec23e4106d4d7e0b613f35f6",
